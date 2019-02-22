@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceBind</string>
+    <string name="txvChronometer">Cronómetro</string>
+    <string name="btnEnd">Stop</string>
+    <string name="btnStart">Start</string>
+    <string name="btnShowTime">Ver tiempo</string>
+</resources>
